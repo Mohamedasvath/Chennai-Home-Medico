@@ -30,12 +30,12 @@ const Footer = () => {
 
         {/* QUICK LINKS */}
         <div>
-          <h3 className="text-white font-semibold mb-4">Quick Links</h3>
+          {/* <h3 className="text-white font-semibold mb-4">Quick Links</h3>
           <ul className="space-y-3 text-sm">
             <li className="hover:text-blue-500 cursor-pointer transition">Home</li>
             <li className="hover:text-blue-500 cursor-pointer transition">Services</li>
             <li className="hover:text-blue-500 cursor-pointer transition">Contact</li>
-          </ul>
+          </ul> */}
         </div>
 
         {/* SERVICES */}
