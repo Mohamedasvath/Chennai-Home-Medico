@@ -34,7 +34,7 @@ const Navbar = () => {
 
             <div className="flex flex-col">
               <span className="text-xl font-bold text-gray-900 leading-none tracking-tight">
-                CHENNAI<span className="text-blue-600">CARE</span>
+                CHENNAI <span className="text-blue-600">CARE</span>
               </span>
               <span className="text-[10px] uppercase tracking-[0.2em] text-gray-500 font-medium">
                 Home Nursing

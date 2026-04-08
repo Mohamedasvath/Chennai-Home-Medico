@@ -16,7 +16,7 @@ const CinematicHero = () => {
         className="absolute inset-0 z-0"
       >
         <img 
-          src="https://media.istockphoto.com/id/2166680849/photo/doctor-examining-patient-pulse-by-hands-healthcare-and-medical-service.jpg?s=612x612&w=0&k=20&c=U1KY2AcY2FFPA8sCrrs1fCS5N-_j3N3T7nkLfL9V3e0=" 
+          src="https://cdn.pixabay.com/photo/2016/11/08/05/29/surgery-1807541_1280.jpg" 
           alt="Chennai Home Care" 
           className="w-full h-full object-cover"
         />
@@ -27,7 +27,7 @@ const CinematicHero = () => {
       </motion.div>
 
       {/* CONTENT */}
-      <div className="relative z-20 max-w-7xl mx-auto px-6 lg:px-12 mt-10 w-full">
+      <div className="relative z-20 max-w-7xl mx-auto px-6 lg:px-12 mt-25 w-full">
         <div className="max-w-3xl">
           
           {/* Top Line */}
@@ -48,7 +48,8 @@ const CinematicHero = () => {
             className="text-white text-5xl md:text-7xl lg:text-8xl font-light leading-[1.1] tracking-tighter mb-8"
           >
             Humanity in <br />
-            <span className="font-medium text-blue-500 italic">Medical Care.</span>
+            <span className="font-medium text-blue-500 italic">Medical <br /> 
+            <span className='font-medium text-blue-500 italic'>Care</span></span>
           </motion.h1>
 
           {/* Subtext */}
