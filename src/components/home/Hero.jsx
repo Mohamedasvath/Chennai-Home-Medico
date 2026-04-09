@@ -102,9 +102,9 @@ const CinematicHero = () => {
             className="mt-20 pt-8 border-t border-white/10 flex flex-wrap gap-x-12 gap-y-6"
           >
             {[
-              { label: "Certified Staff", icon: Shield },
-              { label: "24/7 Response", icon: Phone },
-              { label: "Home Specialized", icon: Shield }
+              // { label: "Certified Staff", icon: Shield },
+              // { label: "24/7 Response", icon: Phone },
+              // { label: "Home Specialized", icon: Shield }
             ].map((item, index) => (
               <div key={index} className="flex items-center space-x-2 text-gray-400">
                 <item.icon size={14} className="text-blue-500" />
